@@ -1,4 +1,4 @@
-# Make Ecospace Environmental Preference Functions
+# Make Ecospace Environmental Response (Preference) Functions
 This code queries the Aquamaps database and, with further processing, we generate environmental preference functions for the Gulf-wide Ecospace Model. 
 
 Data to make these preference functions comes from the [AquaMaps](https://www.aquamaps.org/main/AboutAquaMaps.php), a tool for generating model-based, large-scale predictions of natural occurrences of species. To date, AquaMaps has standardized distribution maps for over 17,300 species of fishes, marine mammals, and invertebrates. This is done by combining occurrence records along with expert knowledge and environmental data to compensate for biases and gaps in existing occurrence data sets.
